@@ -1,5 +1,4 @@
-DROP DATABASE test;
-create database test;
+
 USE test;
 create table Users (
         id INT(8) not null auto_increment,
